@@ -12,6 +12,11 @@
 	font-weight: 200;
 }
 
+#id {
+	height: 150px;
+	width: auto;
+}
+
 ul {
 	list-style: none;
 }
